@@ -1,4 +1,3 @@
-package Demo2;
 /**
  * The JavaTest class is a simple Java program that prints "Hello World!" to the console.
  */
