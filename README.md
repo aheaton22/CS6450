@@ -1,2 +1,2 @@
 # CS6450
-Tests for presentation
+Demo files for presentation on GitHub Copilot
